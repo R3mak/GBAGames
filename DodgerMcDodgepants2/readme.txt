@@ -26,6 +26,6 @@ Up Arrow - Move Up
 Down Arrow - Move Down
 Enter - Start Button
 Backspace - Select Button
-A - Fire Shuriken (Only enabled for the most worthy of ninjas...in the most dire situations...facing the most annoying enemies...of all time!)
+Z - Fire Shuriken (Only enabled for the most worthy of ninjas...in the most dire situations...facing the most annoying enemies...of all time!)
 
 To run use your favorite gba emulator!
